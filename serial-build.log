@@ -1,0 +1,73 @@
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+	cl -c -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew /Zc:strictStrings- -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -EHsc /Fddebug\system_watch.vc.pdb -DUNICODE -D_UNICODE -DWIN32 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -I. -IF:\soft\Qt\5.9.6\msvc2015\include -IF:\soft\Qt\5.9.6\msvc2015\include\QtWidgets -IF:\soft\Qt\5.9.6\msvc2015\include\QtGui -IF:\soft\Qt\5.9.6\msvc2015\include\QtANGLE -IF:\soft\Qt\5.9.6\msvc2015\include\QtNetwork -IF:\soft\Qt\5.9.6\msvc2015\include\QtCore -Idebug -IF:\soft\Qt\5.9.6\msvc2015\mkspecs\win32-msvc -Fodebug\ @C:\Users\29092\AppData\Local\Temp\nmF3C6.tmp
+cl: å‘½ä»¤è¡Œ warning D9025 :æ­£åœ¨é‡å†™â€œ/Zc:strictStringsâ€(ç”¨â€œ/Zc:strictStrings-â€)
+main.cpp
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+	cl -c -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew /Zc:strictStrings- -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -EHsc /Fddebug\system_watch.vc.pdb -DUNICODE -D_UNICODE -DWIN32 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -I. -IF:\soft\Qt\5.9.6\msvc2015\include -IF:\soft\Qt\5.9.6\msvc2015\include\QtWidgets -IF:\soft\Qt\5.9.6\msvc2015\include\QtGui -IF:\soft\Qt\5.9.6\msvc2015\include\QtANGLE -IF:\soft\Qt\5.9.6\msvc2015\include\QtNetwork -IF:\soft\Qt\5.9.6\msvc2015\include\QtCore -Idebug -IF:\soft\Qt\5.9.6\msvc2015\mkspecs\win32-msvc -Fodebug\ @C:\Users\29092\AppData\Local\Temp\nm308.tmp
+cl: å‘½ä»¤è¡Œ warning D9025 :æ­£åœ¨é‡å†™â€œ/Zc:strictStringsâ€(ç”¨â€œ/Zc:strictStrings-â€)
+mainwindow.cpp
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+	cl -c -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew /Zc:strictStrings- -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -EHsc /Fddebug\system_watch.vc.pdb -DUNICODE -D_UNICODE -DWIN32 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -I. -IF:\soft\Qt\5.9.6\msvc2015\include -IF:\soft\Qt\5.9.6\msvc2015\include\QtWidgets -IF:\soft\Qt\5.9.6\msvc2015\include\QtGui -IF:\soft\Qt\5.9.6\msvc2015\include\QtANGLE -IF:\soft\Qt\5.9.6\msvc2015\include\QtNetwork -IF:\soft\Qt\5.9.6\msvc2015\include\QtCore -Idebug -IF:\soft\Qt\5.9.6\msvc2015\mkspecs\win32-msvc -Fodebug\ @C:\Users\29092\AppData\Local\Temp\nm14AC.tmp
+cl: å‘½ä»¤è¡Œ warning D9025 :æ­£åœ¨é‡å†™â€œ/Zc:strictStringsâ€(ç”¨â€œ/Zc:strictStrings-â€)
+overlay.cpp
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+¡°debug\systemmonitor.obj¡±ÊÇ×îĞÂµÄ
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+¡°debug\trayicon.obj¡±ÊÇ×îĞÂµÄ
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+¡°debug\hotkeyfilter.obj¡±ÊÇ×îĞÂµÄ
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+¡°debug\qrc_style.obj¡±ÊÇ×îĞÂµÄ
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+¡°debug\moc_mainwindow.obj¡±ÊÇ×îĞÂµÄ
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+¡°debug\moc_overlay.obj¡±ÊÇ×îĞÂµÄ
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+	cl -c -nologo -Zc:wchar_t -FS -Zc:rvalueCast -Zc:inline -Zc:strictStrings -Zc:throwingNew /Zc:strictStrings- -Zi -MDd -W3 -w34100 -w34189 -w44996 -w44456 -w44457 -w44458 -wd4577 -wd4467 -EHsc /Fddebug\system_watch.vc.pdb -DUNICODE -D_UNICODE -DWIN32 -DQT_WIDGETS_LIB -DQT_GUI_LIB -DQT_NETWORK_LIB -DQT_CORE_LIB -I. -IF:\soft\Qt\5.9.6\msvc2015\include -IF:\soft\Qt\5.9.6\msvc2015\include\QtWidgets -IF:\soft\Qt\5.9.6\msvc2015\include\QtGui -IF:\soft\Qt\5.9.6\msvc2015\include\QtANGLE -IF:\soft\Qt\5.9.6\msvc2015\include\QtNetwork -IF:\soft\Qt\5.9.6\msvc2015\include\QtCore -Idebug -IF:\soft\Qt\5.9.6\msvc2015\mkspecs\win32-msvc -Fodebug\ @C:\Users\29092\AppData\Local\Temp\nm22D5.tmp
+cl: å‘½ä»¤è¡Œ warning D9025 :æ­£åœ¨é‡å†™â€œ/Zc:strictStringsâ€(ç”¨â€œ/Zc:strictStrings-â€)
+moc_systemmonitor.cpp
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+¡°debug\moc_trayicon.obj¡±ÊÇ×îĞÂµÄ
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+¡°debug\moc_hotkeyfilter.obj¡±ÊÇ×îĞÂµÄ
+
+Microsoft (R) ³ÌĞòÎ¬»¤ÊµÓÃ¹¤¾ß 14.00.24210.0 °æ
+°æÈ¨ËùÓĞ (C) Microsoft Corporation¡£  ±£ÁôËùÓĞÈ¨Àû¡£
+
+	link /NOLOGO /DYNAMICBASE /NXCOMPAT /DEBUG /SUBSYSTEM:WINDOWS "/MANIFESTDEPENDENCY:type='win32' name='Microsoft.Windows.Common-Controls' version='6.0.0.0' publicKeyToken='6595b64144ccf1df' language='*' processorArchitecture='*'" /MANIFEST:embed /OUT:debug\system_watch.exe @C:\Users\29092\AppData\Local\Temp\nm2D74.tmp
